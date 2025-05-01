@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive Programming and Cyber Security
 - 🌱 I’m currently learning C, C++, Python, JS
 - 💞️ I’m looking to collaborate on Web Developer
-- 📫 How to reach me 
+- 📫 How to reach me: cristikoesteranto@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
